@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ArrayOperations" />
+        <module name="java-exercise-05-ToniM1810" />
       </profile>
     </annotationProcessing>
   </component>
